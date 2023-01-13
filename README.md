@@ -1,9 +1,9 @@
-[Live Website](https://ravindra467.github.io/)
+[Live Website](https://ravindra467.github.io/ExplorerCompanion/)
 
 # Explorer Companion
 Explorer Companion is an advanced travel companion application that uses [Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor/) and [Open Weather Map API](https://rapidapi.com/community/api/open-weather-map/) provided by [RapidAPI](https://rapidapi.com/hub) to provide you with the best travel experience. With features like geolocation, searching for places, fetching restaurants, hotels, and attractions based on your location, and data filtering, Explorer Companion is the perfect app to use while on the go.
 
-![Main Page](./public/)
+![Main Page](./public/MainPage.PNG)
 
 ## Features
 - Geolocation: Get your current location and explore nearby places
